@@ -1,0 +1,36 @@
+*{
+  padding: 0px;
+  margin: 0px;  
+  box-sizing: border-box;
+}
+body{
+    background: url("https://images.pexels.com/photos/2318554/pexels-photo-2318554.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: cover;
+}
+.main{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+h2{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.register{
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 1px solid rgba(255,255,255,0.3);
+    box-shadow: 2px 2px 15px;
+    color: #ffff;
+    
+}
+form{
+    margin:10px 40px;
+}
+button{
+    margin-left: 150px;
+    margin-bottom: 10px;
+
+}
